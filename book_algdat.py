@@ -5,7 +5,7 @@ import os
 
 
 # Create a Book instance with the specified bookID and number of pages
-ALGORITMER_OG_DATASTRUKTURER = Book(bookID="URN:NBN:no-nb_digibok_2009060900016", pages=304)
+ALGORITMER_OG_DATASTRUKTURER = Book(bookID="URN:NBN:no-nb_digibok_2009060900016", pages=309 -5)
 
 # Create a directory to store the downloaded page files
 pageDirectory = Path("temp")
